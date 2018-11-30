@@ -5,7 +5,7 @@ applications:
   name: swiftbackendforfrontend
   buildpack: swift_buildpack
   command: "'swiftbackendforfrontend'"
-  memory: 128M
+  memory: 256M
   domain: not-used.net
   host: not-used
   env:
